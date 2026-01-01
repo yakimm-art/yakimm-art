@@ -18,13 +18,13 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yakimm-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yakimm-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/yakimm-art)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakimm-art&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yakimm-art&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/yakimm-art)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yakimm-art&theme=radical&hide_border=true" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yakimm-art&theme=radical&hide_border=true)](https://github.com/yakimm-art)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yakimm-art&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yakimm-art&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true)](https://github.com/yakimm-art)
 
 </div>
 
