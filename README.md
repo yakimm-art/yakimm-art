@@ -16,30 +16,15 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=yakimm-art&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
-<br/>
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yakimm-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakimm-art&layout=compact&langs_count=8&theme=radical"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=yakimm-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakimm-art&theme=radical" alt="yakimm-art's streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakimm-art&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakimm-art&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yakimm-art&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yakimm-art&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
