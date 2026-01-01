@@ -16,15 +16,49 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
-<img src="https://github-readme-stats.vercel.app/api?username=yakimm-art&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yakimm-art&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" width="49%" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=yakimm-art&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakimm-art&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=ffffff&langs_count=8" width="49%" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yakimm-art&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF69B4&line=FF69B4&point=ffffff" width="49%" alt="Contribution Graph" />
+<div align="center">
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=yakimm-art&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=yakimm-art&theme=radical&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&dates=ffffff" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakimm-art&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF69B4&line=FF69B4&point=ffffff&area=true&height=300" width="100%" alt="Contribution Graph" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakimm-art&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=ffffff&langs_count=10&card_width=445" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-contributor-stats.vercel.app/api?username=yakimm-art&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=FF69B4&text_color=ffffff&icon_color=FF69B4" alt="Top Contributed Repos" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github.com/yakimm-art/yakimm-art/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
