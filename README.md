@@ -18,13 +18,26 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yakimm-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/yakimm-art)
-
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yakimm-art&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/yakimm-art)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yakimm-art&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/yakimm-art)
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yakimm-art&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true)](https://github.com/yakimm-art)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yakimm-art&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yakimm-art&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=yakimm-art&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakimm-art&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
