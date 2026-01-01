@@ -29,11 +29,6 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=yakimm-art&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakimm-art&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
     </td>
   </tr>
