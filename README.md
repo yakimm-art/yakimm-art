@@ -22,7 +22,7 @@
 
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yakimm-art&layout=compact&langs_count=8&theme=radical&hide_border=true)](https://github.com/yakimm-art)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yakimm-art&theme=radical&hide_border=true)](https://github.com/yakimm-art)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yakimm-art&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/yakimm-art)
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yakimm-art&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true)](https://github.com/yakimm-art)
 
