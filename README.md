@@ -43,11 +43,13 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakimm-art&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=ffffff&langs_count=10&card_width=445" alt="Top Languages" />
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakimm-art&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=ffffff&langs_count=8" alt="Top Languages" />
     </td>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=yakimm-art&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=FF69B4&text_color=ffffff&icon_color=FF69B4" alt="Top Contributed Repos" />
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakimm-art&theme=radical" width="100%" alt="Profile Summary" />
     </td>
   </tr>
 </table>
